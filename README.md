@@ -12,3 +12,11 @@ The notebook focuses on exploring the attributes of the pokemon due to them bein
 
 #### WikiScraping
 The data is retrieved from two wiki pages and focuses on the method of converting these pages into a single set of features and subsequent predictions of new samples of text using the model created from clustering these features into two groups, which are hoped to represent the two separate wiki pages.
+
+### Current Method Examples:
+
+#### KMeans
+A python file showing KMeans on a generated dataset. No visualisations. Not converted to notebook.
+
+#### MeanShift
+A notebook showing MeanShift in its simplest form. Visualisations are included.
