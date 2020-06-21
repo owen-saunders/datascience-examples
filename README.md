@@ -19,4 +19,4 @@ The data is retrieved from two wiki pages and focuses on the method of convertin
 A python file showing KMeans on a generated dataset. No visualisations. Not converted to notebook.
 
 #### MeanShift
-A notebook showing MeanShift in its simplest form. Visualisations are included.
+A notebook showing MeanShift in its simplest form. Visualisations and accuracy tests are included.
